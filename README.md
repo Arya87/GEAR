@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Bridging the Planner-Actor Gap<br>via Gradient-Aligned Policy Extraction</h1>
+<h1>GEAR: Bridging the Planner-Actor Gap<br>via Gradient-Aligned Policy Extraction</h1>
 
 <p><strong>NeurIPS 2026</strong></p>
 
